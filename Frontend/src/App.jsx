@@ -7,7 +7,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>Hello world! Tui đang test từ git destop
+      <h1>Hello world! Tui đang test từ git destop...............
       </h1>
     </>
   )
