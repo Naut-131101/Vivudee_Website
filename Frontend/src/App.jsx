@@ -9,6 +9,7 @@ function App() {
     <>
       <h1>Hello world! Tui đang test từ git destop...............
       </h1>
+      <input type="text" />
     </>
   )
 }
